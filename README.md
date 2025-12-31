@@ -29,7 +29,6 @@ http://localhost:8000/docs
 - `GET /customers` - List
 - `GET /customers/{id}` - Get one
 - `PUT /customers/{id}` - Update
-- `DELETE /customers/{id}` - Delete
 
 ### Products (7)
 - `POST /products` - Create
@@ -38,7 +37,6 @@ http://localhost:8000/docs
 - `GET /products/low-stock/alerts` - Alerts
 - `PUT /products/{id}` - Update
 - `PATCH /products/{id}/stock` - Update stock
-- `DELETE /products/{id}` - Delete
 
 ### Sales (6) + Reports (2)
 - `POST /sales` - Record sale
